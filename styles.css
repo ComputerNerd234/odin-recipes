@@ -4,3 +4,19 @@ Fieldset{
     margin-left: auto;
     margin-right: auto;
 }
+html{
+    background-color: rgb(13, 35, 72);
+    color: antiquewhite;
+
+}
+fieldset{
+    background-color: #617073ff;
+
+}
+/*
+--rich-black: #04080fff;
+--paynes-gray: #617073ff;
+--mint-green: #bee3dbff;
+--seasalt: #faf9f9ff;
+--apricot: #ffd6baff;
+*/
