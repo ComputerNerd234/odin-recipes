@@ -5,13 +5,19 @@ Fieldset{
     margin-right: auto;
 }
 html{
-    background-color: rgb(13, 35, 72);
-    color: antiquewhite;
+    background-color: #04080fff;
+    color: #faf9f9ff;
 
 }
 fieldset{
-    background-color: #617073ff;
+    background-color: rgb(63, 71, 73);
+    height: 100%;
+    font-size:larger;
 
+
+}
+img{
+    size: 200%;
 }
 /*
 --rich-black: #04080fff;
