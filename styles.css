@@ -2,7 +2,13 @@
     width: 80%;
     height: 100%;
     
+    
 }
+a{
+    float: left;
+    margin-right: 50px;
+}
+
 fieldset{
     align-self: center;
     margin-left: auto;
@@ -13,7 +19,7 @@ fieldset{
     border-top: 0;
     font-size: 150%;
     width:fit-content;  
-    padding: 5px 3px; 
+    padding: 5px 50px; 
     
 
 }
